@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportHeight="108"
+    android:viewportWidth="108">
+    <!-- Cat paw icon -->
+    <!-- Main pad -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M54,62 C54,62 44,58 40,64 C36,70 42,78 54,78 C66,78 72,70 68,64 C64,58 54,62 54,62 Z" />
+    <!-- Top left toe -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M38,52 C38,48 42,44 46,46 C50,48 48,54 44,56 C40,58 38,56 38,52 Z" />
+    <!-- Top right toe -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M70,52 C70,48 66,44 62,46 C58,48 60,54 64,56 C68,58 70,56 70,52 Z" />
+    <!-- Top center left toe -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M46,44 C46,40 49,36 53,38 C56,40 55,46 52,48 C49,50 46,48 46,44 Z" />
+    <!-- Top center right toe -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M62,44 C62,40 59,36 55,38 C52,40 53,46 56,48 C59,50 62,48 62,44 Z" />
+</vector>

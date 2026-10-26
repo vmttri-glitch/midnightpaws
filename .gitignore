@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+
+# Built apps (published as GitHub Release assets instead)
+*.apk
+*.aab
+
+# Local editor / assistant settings
+.claude/
